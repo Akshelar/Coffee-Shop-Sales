@@ -1,6 +1,6 @@
 # Coffee-Shop-Sales
 
-The main objective of
+# The main objective of
 this project is to analyze
 retail sales data to gain
 actionable insights that
