@@ -1,6 +1,8 @@
 # Coffee-Shop-Sales
 
 # The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
+
+The analysis I did
 1. How do sales vary by day of the
 week and hour of the day?
 2. Are there any peak times for sales
